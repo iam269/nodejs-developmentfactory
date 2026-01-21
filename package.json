@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-developmentfactory",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/iam269/nodejs-developmentfactory#readme",
+  "bugs": {
+    "url": "https://github.com/iam269/nodejs-developmentfactory/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam269/nodejs-developmentfactory.git"
+  },
+  "license": "ISC",
+  "author": "Aurel",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
